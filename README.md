@@ -3900,7 +3900,21 @@ function quux (foo) {
 }
 
 /**
+ * @version      3.4.1
+ */
+function quux (foo) {
+
+}
+
+/**
  * @since 3.4.1
+ */
+function quux (foo) {
+
+}
+
+/**
+ * @since      3.4.1
  */
 function quux (foo) {
 
